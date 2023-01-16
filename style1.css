@@ -231,6 +231,12 @@ input[type="checkbox"]:checked + label {
   
     
   }
+@media( max-width:600px){
+  #contact-frm-btn{
+    display:block!important;
+    width: 100% !important;
+  }
+  }
 
   .fbicon , .instaicon , .twittericon{
     height: 3rem;
